@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\Zadanie3\Zad3\bin\Debug\net10.0\Zad3.exe
+C:\Users\julia\Documents\Zadanie3\Zad3\bin\Debug\net10.0\Zad3.deps.json
+C:\Users\julia\Documents\Zadanie3\Zad3\bin\Debug\net10.0\Zad3.runtimeconfig.json
+C:\Users\julia\Documents\Zadanie3\Zad3\bin\Debug\net10.0\Zad3.dll
+C:\Users\julia\Documents\Zadanie3\Zad3\bin\Debug\net10.0\Zad3.pdb
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\Zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\Zad3.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\Zad3.AssemblyInfo.cs
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\Zad3.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\Zad3.dll
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\refint\Zad3.dll
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\Zad3.pdb
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\Zad3.genruntimeconfig.cache
+C:\Users\julia\Documents\Zadanie3\Zad3\obj\Debug\net10.0\ref\Zad3.dll
